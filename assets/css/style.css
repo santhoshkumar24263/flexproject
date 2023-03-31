@@ -1,0 +1,25 @@
+.color{
+ background-color: black;
+  
+}
+.flexbox-container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    align-items: flex-end;
+}
+
+.text1
+{
+     
+     align-items: flex-start;
+     margin: 5px;
+    
+}
+
+.text2
+{
+     
+    align-items: flex-end;
+
+}
